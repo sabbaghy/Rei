@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: posts
 permalink: /projects/
 title: "proyecto 1 de ejemplo"
 author_profile: true
