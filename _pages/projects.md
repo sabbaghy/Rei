@@ -1,7 +1,6 @@
 ---
-layout: posts
-permalink: /projects/
 title: "projects"
+permalink: /projects/
 author_profile: true
    image: "/images/Xilifono.jpg" 
 ---
