@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Sabbagh
+permalink: /cv/
 subtitle: Experto en Marketing • Desarrollador Web
 ---
 
