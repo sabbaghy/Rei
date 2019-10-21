@@ -1,6 +1,6 @@
 ---
 title: "Projets"
-permalink: /projets/
+permalink: /projects/
 author_profile: true
 header:
    image: "/images/Xilofono.jpg"
