@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /project1/
+permalink: /projects/
 title: "proyecto 1 de ejemplo"
 author_profile: true
    image: "/images/Xilifono.jpg" 
