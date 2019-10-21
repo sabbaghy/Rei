@@ -1,6 +1,6 @@
 ---
-title: "project1s"
-permalink: /projects/
+title: "joder"
+permalink: /joder/
 author_profile: true
 header:
    image: "/images/Xilifono.jpg"
