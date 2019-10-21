@@ -3,7 +3,11 @@
    ========================================================================== */
 
 .masthead {
-  position: relative;
+//   position: relative; // este es la opcion por defecto
+  position: sticky; // se agrego para fijar el menu
+  top: 5px; // se agrego
+  background-color:white; // se agrego
+  width: 100%;	 // se agrego
   border-bottom: 1px solid $border-color;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
