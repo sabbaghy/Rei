@@ -1,7 +1,7 @@
 ---
 layout: posts
 permalink: /projects/
-title: "proyecto 1 de ejemplo"
+title: "projects"
 author_profile: true
    image: "/images/Xilifono.jpg" 
 ---
