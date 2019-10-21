@@ -1,11 +1,8 @@
 ---
-layout: page
 title: Sabbagh
 permalink: /cv/
 subtitle: Experto en Marketing • Desarrollador Web
 ---
-
--------------
 
 <div align="center">
 <a href="mailto:youssef.sabbagh.c@gmail.com" class="btn btn-success"><span class="glyphicons glyphicons-envelope"></span>Email</a>
