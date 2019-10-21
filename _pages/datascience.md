@@ -1,10 +1,11 @@
 ---
 layout: archive
-title: "Publications by Category"
-permalink: /publications/
+permalink: /data-science/
+title: "Data Science Posts by Category"
+categories: [data-science]
 author_profile: true
 header:
-   image: "/images/climbing1.jpg"
+    image: "/images/Austin.JPG"
 ---
 {% for category in site.categories %}
   <h3>{{ category[0] }}</h3>

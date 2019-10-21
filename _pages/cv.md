@@ -2,6 +2,8 @@
 title: Sabbagh
 permalink: /cv/
 subtitle: Experto en Marketing • Desarrollador Web
+header:
+    image: "/images/Austin.JPG"
 ---
 
 <div align="center">
