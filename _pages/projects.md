@@ -2,7 +2,7 @@
 title: "projects"
 permalink: /projects/
 author_profile: true
-   image: "/images/Xilifono.jpg"
+#   image: "/images/Xilifono.jpg"
 ---
 
 {% include base_path %}
