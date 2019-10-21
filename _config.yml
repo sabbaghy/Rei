@@ -142,7 +142,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "sabbaghy/rei"
+      url: "https://github.com/youssef-sabbagh"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
